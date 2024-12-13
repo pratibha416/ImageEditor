@@ -17,9 +17,12 @@ Features
 Installation
 
 1.Clone the repository:https://github.com/pratibha416/ImageEditor
-cd ImageEditor
 
-2.Install the required dependencies:
+2.cd ImageEditor
+
+3.Install the required dependencies:
 pip install PyQt5
+
 pip install numpy
+
 pip install -r requirements.txt
