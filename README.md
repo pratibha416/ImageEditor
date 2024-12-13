@@ -21,6 +21,7 @@ Installation
 2.cd ImageEditor
 
 3.Install the required dependencies:
+
 pip install PyQt5
 
 pip install numpy
